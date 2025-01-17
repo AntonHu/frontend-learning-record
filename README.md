@@ -1,3 +1,2 @@
-# study_demo
-collect study demo
-这是一个学习过程中使用到的demo
+# 前端入门自学记录
+这是一个入门前端时期，学习过程中的练习记录
